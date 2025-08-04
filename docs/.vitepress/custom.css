@@ -1,0 +1,6 @@
+
+.sidebar-item .sidebar-link.active {
+  font-size: 1.25rem;
+  font-weight: 600;
+  margin: 0.75em 0 0.25em;
+}
